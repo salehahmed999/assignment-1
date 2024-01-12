@@ -16,7 +16,7 @@
     width: 82%;
     max-width: 1320px;
     margin: 42px auto;
-    
+    font-family: Merriweather;
 }
 
 
@@ -46,7 +46,7 @@
 .header-main {
     background: #FFF;
     text-align: center;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: Inter;
     margin-bottom: 100px;
 }
 
@@ -104,6 +104,10 @@
     line-height: 30px;
     width: 600px;
     padding-left: 100px;
+}
+
+.banner .section-img{
+    padding-right: 90px;
 }
 
 button {
