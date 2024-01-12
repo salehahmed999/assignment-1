@@ -23,6 +23,7 @@
 
 .container .header-1 {
     color: #FFF;
+    font-family: Merriweather;
     text-align: center;
     font-size: 32px;
     font-style: normal;
@@ -41,6 +42,7 @@
     font-weight: 900;
     line-height: 120px;
     padding-bottom: 155px;
+    font-family: Merriweather;
 }
 
 .header-main {
@@ -118,6 +120,7 @@ button {
     padding: 15px 25px;
     border: none;
     margin-top: 40px;
+    font-family: Inter;
 }
 
 .btn {
